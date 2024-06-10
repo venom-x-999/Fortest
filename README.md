@@ -4,5 +4,5 @@
 
 apt update
 apt upgrade
-chmod +x test.sh
-bash test.sh
+chmod +x getcode.sh
+./getcode.sh
